@@ -1,0 +1,10 @@
+name: ReduceMobSpawning
+version: ${project.version}
+main: me.reducemobspawning.ReduceMobSpawning
+api-version: 1.16
+authors: [ DerTyp7214 ]
+description: Reduce Mob Spawning
+commands:
+  spawn:
+    description: Spawn config
+    usage: /spawn add/remove <entity>
